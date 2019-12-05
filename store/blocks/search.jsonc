@@ -51,7 +51,7 @@
     "blocks": ["gallery", "not-found"]
   },
   "gallery": {
-    "required": ["product-summary.shelf"]
+    "blocks": ["product-summary.shelf"]
   },
   "product-summary.shelf": {
     "blocks": ["product-summary-sku-selector"]
