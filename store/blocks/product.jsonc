@@ -6,8 +6,8 @@
       "shelf.relatedProducts"
     ]
   },
-  "flex-layout.row#main": { 
-    "props": { 
+  "flex-layout.row#main": {
+    "props": {
       "marginTop": 6
     },
     "children": [
@@ -35,7 +35,7 @@
     }
   },
 
-  "flex-layout.row#qty-sku":{
+  "flex-layout.row#qty-sku": {
     "children": [
       "sku-selector",
       "product-quantity"
@@ -59,10 +59,12 @@
       "height": 30
     }
   },
-  "sku-selector":{
+  "sku-selector": {
     "props": {
-      "skuSelected": "SKU!",
-      "displayMode": "Name"
+      "showVariationsLabels": true,
+      "displayMode": "select",
+      "initialSelection": "empty",
+      "showVariationsErrorMessage": true
     }
   }
 }
