@@ -3,15 +3,10 @@
     "blocks": [
       "info-card#button-right",
       "info-card#button-left",
-      "flex-layout.row"
+      "flex-layout.row",
+      "shelf"
     ]
-  },
-  // "rich-text":{
-  //   "props":{
-  //     "text": "**Hello, World!**",
-  //     "textPosition": "CENTER" 
-  //   }
-  // },
+  },  
   "info-card#button-right": {
     "props":{
       "isFullModeStyle": false,
