@@ -39,7 +39,7 @@
       "filter-navigator.v3"
     ],
     "props": {
-      "width": "100%"
+      "width": "10%"
     }
   },
   "flex-layout.col#search": {
@@ -52,8 +52,5 @@
   },
   "gallery": {
     "blocks": ["product-summary.shelf"]
-  },
-  "product-summary.shelf": {
-    "blocks": ["product-summary-sku-selector"]
   }
 }
