@@ -26,7 +26,7 @@
     }
   },
   "info-card#button-left": {
-    "props":{
+    "props": {
       "isFullModeStyle": false,
       "textPosition": "left",
       "imageUrl": "https://appliancetheme.vteximg.com.br/arquivos/cozinha-cinza-min.png",
@@ -35,7 +35,7 @@
       "callToActionMode": "link",
       "callToActionText": "Go to Collection",
       "callToActionUrl": "/sale/d",
-      "textAlignment": "center"
+      "textAlignment": "center",
     }
   }
 }
