@@ -22,7 +22,7 @@
   "flex-layout.col#right": {
     "children": [
       "product-name",
-      "product.identifier.product",
+      "product-identifier.product",
       "product-price",
       "sku-selector",
       "product-quantity",
