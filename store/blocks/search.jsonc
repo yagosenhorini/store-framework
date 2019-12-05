@@ -51,9 +51,9 @@
     "blocks": ["gallery", "not-found"]
   },
   "gallery": {
-    "blocks": ["product-summary.shelf"]
+    "required": ["product-summary.shelf"]
   },
   "product-summary.shelf": {
-    "children": ["product-summary-sku-selector"]
+    "blocks": ["product-summary-sku-selector"]
   }
 }
