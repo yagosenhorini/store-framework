@@ -61,7 +61,8 @@
   },
   "sku-selector":{
     "props": {
-      "skuSelected": "SKU!"
+      "skuSelected": "SKU!",
+      "displayMode": "Name"
     }
   }
 }
